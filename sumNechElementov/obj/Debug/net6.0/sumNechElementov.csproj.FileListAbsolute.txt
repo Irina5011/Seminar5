@@ -1,0 +1,15 @@
+D:\Обучениенорм\Введение в программирование\Домашка Семинар 5\sumNechElementov\obj\Debug\net6.0\sumNechElementov.csproj.AssemblyReference.cache
+D:\Обучениенорм\Введение в программирование\Домашка Семинар 5\sumNechElementov\obj\Debug\net6.0\sumNechElementov.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучениенорм\Введение в программирование\Домашка Семинар 5\sumNechElementov\obj\Debug\net6.0\sumNechElementov.AssemblyInfoInputs.cache
+D:\Обучениенорм\Введение в программирование\Домашка Семинар 5\sumNechElementov\obj\Debug\net6.0\sumNechElementov.AssemblyInfo.cs
+D:\Обучениенорм\Введение в программирование\Домашка Семинар 5\sumNechElementov\obj\Debug\net6.0\sumNechElementov.csproj.CoreCompileInputs.cache
+D:\Обучениенорм\Введение в программирование\Домашка Семинар 5\sumNechElementov\bin\Debug\net6.0\sumNechElementov.exe
+D:\Обучениенорм\Введение в программирование\Домашка Семинар 5\sumNechElementov\bin\Debug\net6.0\sumNechElementov.deps.json
+D:\Обучениенорм\Введение в программирование\Домашка Семинар 5\sumNechElementov\bin\Debug\net6.0\sumNechElementov.runtimeconfig.json
+D:\Обучениенорм\Введение в программирование\Домашка Семинар 5\sumNechElementov\bin\Debug\net6.0\sumNechElementov.dll
+D:\Обучениенорм\Введение в программирование\Домашка Семинар 5\sumNechElementov\bin\Debug\net6.0\sumNechElementov.pdb
+D:\Обучениенорм\Введение в программирование\Домашка Семинар 5\sumNechElementov\obj\Debug\net6.0\sumNechElementov.dll
+D:\Обучениенорм\Введение в программирование\Домашка Семинар 5\sumNechElementov\obj\Debug\net6.0\refint\sumNechElementov.dll
+D:\Обучениенорм\Введение в программирование\Домашка Семинар 5\sumNechElementov\obj\Debug\net6.0\sumNechElementov.pdb
+D:\Обучениенорм\Введение в программирование\Домашка Семинар 5\sumNechElementov\obj\Debug\net6.0\sumNechElementov.genruntimeconfig.cache
+D:\Обучениенорм\Введение в программирование\Домашка Семинар 5\sumNechElementov\obj\Debug\net6.0\ref\sumNechElementov.dll

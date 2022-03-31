@@ -1,0 +1,15 @@
+D:\Обучениенорм\Введение в программирование\Домашка Семинар 5\raznicaNexhdyMinIMax\bin\Debug\net6.0\raznicaNexhdyMinIMax.exe
+D:\Обучениенорм\Введение в программирование\Домашка Семинар 5\raznicaNexhdyMinIMax\bin\Debug\net6.0\raznicaNexhdyMinIMax.deps.json
+D:\Обучениенорм\Введение в программирование\Домашка Семинар 5\raznicaNexhdyMinIMax\bin\Debug\net6.0\raznicaNexhdyMinIMax.runtimeconfig.json
+D:\Обучениенорм\Введение в программирование\Домашка Семинар 5\raznicaNexhdyMinIMax\bin\Debug\net6.0\raznicaNexhdyMinIMax.dll
+D:\Обучениенорм\Введение в программирование\Домашка Семинар 5\raznicaNexhdyMinIMax\bin\Debug\net6.0\raznicaNexhdyMinIMax.pdb
+D:\Обучениенорм\Введение в программирование\Домашка Семинар 5\raznicaNexhdyMinIMax\obj\Debug\net6.0\raznicaNexhdyMinIMax.csproj.AssemblyReference.cache
+D:\Обучениенорм\Введение в программирование\Домашка Семинар 5\raznicaNexhdyMinIMax\obj\Debug\net6.0\raznicaNexhdyMinIMax.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучениенорм\Введение в программирование\Домашка Семинар 5\raznicaNexhdyMinIMax\obj\Debug\net6.0\raznicaNexhdyMinIMax.AssemblyInfoInputs.cache
+D:\Обучениенорм\Введение в программирование\Домашка Семинар 5\raznicaNexhdyMinIMax\obj\Debug\net6.0\raznicaNexhdyMinIMax.AssemblyInfo.cs
+D:\Обучениенорм\Введение в программирование\Домашка Семинар 5\raznicaNexhdyMinIMax\obj\Debug\net6.0\raznicaNexhdyMinIMax.csproj.CoreCompileInputs.cache
+D:\Обучениенорм\Введение в программирование\Домашка Семинар 5\raznicaNexhdyMinIMax\obj\Debug\net6.0\raznicaNexhdyMinIMax.dll
+D:\Обучениенорм\Введение в программирование\Домашка Семинар 5\raznicaNexhdyMinIMax\obj\Debug\net6.0\refint\raznicaNexhdyMinIMax.dll
+D:\Обучениенорм\Введение в программирование\Домашка Семинар 5\raznicaNexhdyMinIMax\obj\Debug\net6.0\raznicaNexhdyMinIMax.pdb
+D:\Обучениенорм\Введение в программирование\Домашка Семинар 5\raznicaNexhdyMinIMax\obj\Debug\net6.0\raznicaNexhdyMinIMax.genruntimeconfig.cache
+D:\Обучениенорм\Введение в программирование\Домашка Семинар 5\raznicaNexhdyMinIMax\obj\Debug\net6.0\ref\raznicaNexhdyMinIMax.dll
