@@ -1,16 +1,33 @@
 ﻿// Задача 3: Задайте массив вещественных чисел. Найдите разницу 
 // между максимальным и минимальным элементов массива.
 
-double[,] a = new double[5, 10];
-
-Random random = new Random();
-for (int i = 0; i < 5; i++)
+int[] RandArray(int lenght)
 {
-    for (int j = 0; j < 10; j++)
+    int[] answer = new int[lenght];
+    for (int i = 0; i < lenght; i++)
     {
-        a[i, j] = random.NextDouble() * 100; // NextDouble() дает случайное вещественное число в диапазоне от 0 до 1
-        Console.Write("{0,6:F2}", a[i, j]);
+        answer[i] = new Random().Next(100, 1000);
+    }
+    return answer;
+}
+
+void PrintArray(int[] Mas)
+{
+    int count = Mas.Length;
+    for (int pos = 0; pos < count; pos++)
+    {
+        Console.Write(Mas[pos] + ", ");
     }
     Console.WriteLine();
 }
+
+int[] arr = RandArray(3);
+PrintArray(arr);
+int max = 0;
+for (int i = 0; i < arr.Length; i++)
+{
+    if(max < arr[i])
+         max = arr[i];
+}
+Console.WriteLine($"Это максимальное число => {max}");
 
